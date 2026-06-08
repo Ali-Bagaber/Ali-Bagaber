@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**Ali-Bagaber/Ali-Bagaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student interested in web development, backend systems, and mobile applications.
 
-Here are some ideas to get you started:
+Currently working on academic and personal projects using Flutter, Laravel, PHP, MySQL, Firebase, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### ISLA Final Year Project
+A Flutter-based study assistant app for university students focused on task management, focus sessions, and study support.
+
+### Inquira System (MCMC-Related Public Inquiry Management System)
+A web-based management system developed using Laravel, PHP, and MySQL for handling public inquiries, agency assignment, and progress tracking.
+
+### Software Evolution Maintenance
+A software engineering academic project related to software maintenance and system evolution.
+
+## Technologies
+- Flutter
+- Dart
+- Laravel
+- PHP
+- MySQL
+- JavaScript
+- Firebase
+- HTML
+- CSS
+
+## Contact
+- GitHub: [Ali-Bagaber](https://github.com/Ali-Bagaber)
+- LinkedIn: [ali-bagaber-989974302](https://www.linkedin.com/in/ali-bagaber-989974302)
