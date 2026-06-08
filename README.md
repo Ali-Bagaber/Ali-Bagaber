@@ -15,6 +15,9 @@ A web-based management system developed using Laravel, PHP, and MySQL for handli
 ### MyPetakom
 A PHP-based web management system built for managing student activities, membership workflows, event coordination, attendance tracking, and merit approval processes.
 
+### PSMMS - Preacher and Activity Management System
+A Flutter-based mobile application for managing preachers, activities, and payment workflows for religious organizations.
+
 **Technologies**
 - PHP
 - MySQL
